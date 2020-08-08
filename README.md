@@ -7,7 +7,7 @@ Ensure that you are in the proper directory.
 git pull
 ```
 
-#### After you make changes in your local folder 
+#### After you make changes in your local folder, 
 #### Check the status
 ```
 git status

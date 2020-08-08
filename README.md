@@ -38,8 +38,8 @@ git clone $Link
 #### Homework Hint
 * First get two inputs from user - start & end
 ```python
-start = input("Starting number")
-end = input("Starting number")
+start = input("Type Start Number")
+end = input("Type End Number")
 ```
 Inputs are by-deafult string, so you probably have to convert to number. 
 Refer to type conversion in python

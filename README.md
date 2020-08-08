@@ -41,6 +41,12 @@ git clone $Link
 start = input("Starting number")
 end = input("Starting number")
 ```
+Inputs are by-deafult string, so you probably have to convert to number. 
+Refer to type conversion in python
+```
+x = int('123') #This converts string : "123" to number - 123
+```
+
 
 * Create a random number between these two numbers ( import random package, use randrange function) 
 ```python

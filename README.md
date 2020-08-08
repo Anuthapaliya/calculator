@@ -35,4 +35,29 @@ One Time process
 git clone $Link
 ```
 
+### Homework Hint
+* First get two inputs from user - start & end
+```python
+start = input("Starting number")
+end = input("Starting number")
+```
+
+* Create a random number between these two numbers ( import random package, use randrange function) 
+```python
+import random
+target = random.randrange(start, end)
+```
+
+* Get inputs from user until the input matches with the target. Hint : Use while loop
+```python
+guess = input(" Please guess") 
+```
+
+* Based on guess, print feedback, "smaller" or "greater"
+* Store all the results in a list. Initialize a list and append all the guesses to it. 
+* Finally, print the number of guesses, list of guesses, and success rate. 
+
+
+
+
 

@@ -1,3 +1,28 @@
+# Unit / Linux Commands
+#### List all the files and directories within a path
+```
+ls 
+```
+#### change directory
+```
+cd
+```
+
+#### Go back to previous directory
+```
+cd .. 
+```
+
+#### show the current director ( To check where exactly you are ) 
+
+```
+pwd 
+```
+
+#### clears everything in the terminal
+```
+clear 
+```
 
 # Git Cheatsheet
 Ensure that you are in the proper directory. 
